@@ -14,6 +14,12 @@
 		0419BF6A1A468E6500798EE0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0419BF681A468E6500798EE0 /* LaunchScreen.xib */; };
 		0419BF761A468E6500798EE0 /* TipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0419BF751A468E6500798EE0 /* TipCalculatorTests.swift */; };
 		0419BF801A46BBE600798EE0 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0419BF7F1A46BBE600798EE0 /* SettingsViewController.swift */; };
+		042907151A4A1C630045CA29 /* groups-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 042907141A4A1C630045CA29 /* groups-50.png */; };
+		042907191A4A2CF80045CA29 /* user_male3-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 042907181A4A2CF80045CA29 /* user_male3-50.png */; };
+		0429071B1A4A2CFE0045CA29 /* lol-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 0429071A1A4A2CFE0045CA29 /* lol-50.png */; };
+		0429071D1A4A2D030045CA29 /* sad-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 0429071C1A4A2D030045CA29 /* sad-50.png */; };
+		0429071F1A4A2FB10045CA29 /* wink-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 0429071E1A4A2FB10045CA29 /* wink-50.png */; };
+		042907271A4A5DDB0045CA29 /* money-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 042907261A4A5DDB0045CA29 /* money-50.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +44,12 @@
 		0419BF741A468E6500798EE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0419BF751A468E6500798EE0 /* TipCalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorTests.swift; sourceTree = "<group>"; };
 		0419BF7F1A46BBE600798EE0 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		042907141A4A1C630045CA29 /* groups-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "groups-50.png"; sourceTree = "<group>"; };
+		042907181A4A2CF80045CA29 /* user_male3-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "user_male3-50.png"; sourceTree = "<group>"; };
+		0429071A1A4A2CFE0045CA29 /* lol-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lol-50.png"; sourceTree = "<group>"; };
+		0429071C1A4A2D030045CA29 /* sad-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sad-50.png"; sourceTree = "<group>"; };
+		0429071E1A4A2FB10045CA29 /* wink-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wink-50.png"; sourceTree = "<group>"; };
+		042907261A4A5DDB0045CA29 /* money-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "money-50.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +94,13 @@
 				0419BF5F1A468E6500798EE0 /* AppDelegate.swift */,
 				0419BF611A468E6500798EE0 /* ViewController.swift */,
 				0419BF631A468E6500798EE0 /* Main.storyboard */,
+				0429071C1A4A2D030045CA29 /* sad-50.png */,
+				0429071E1A4A2FB10045CA29 /* wink-50.png */,
+				0429071A1A4A2CFE0045CA29 /* lol-50.png */,
+				042907261A4A5DDB0045CA29 /* money-50.png */,
 				0419BF661A468E6500798EE0 /* Images.xcassets */,
+				042907141A4A1C630045CA29 /* groups-50.png */,
+				042907181A4A2CF80045CA29 /* user_male3-50.png */,
 				0419BF681A468E6500798EE0 /* LaunchScreen.xib */,
 				0419BF5D1A468E6500798EE0 /* Supporting Files */,
 				0419BF7F1A46BBE600798EE0 /* SettingsViewController.swift */,
@@ -195,9 +213,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0429071B1A4A2CFE0045CA29 /* lol-50.png in Resources */,
+				0429071F1A4A2FB10045CA29 /* wink-50.png in Resources */,
 				0419BF651A468E6500798EE0 /* Main.storyboard in Resources */,
+				042907191A4A2CF80045CA29 /* user_male3-50.png in Resources */,
 				0419BF6A1A468E6500798EE0 /* LaunchScreen.xib in Resources */,
+				042907151A4A1C630045CA29 /* groups-50.png in Resources */,
 				0419BF671A468E6500798EE0 /* Images.xcassets in Resources */,
+				0429071D1A4A2D030045CA29 /* sad-50.png in Resources */,
+				042907271A4A5DDB0045CA29 /* money-50.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,6 +435,7 @@
 				0419BF7B1A468E6500798EE0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0419BF7C1A468E6500798EE0 /* Build configuration list for PBXNativeTarget "TipCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +444,7 @@
 				0419BF7E1A468E6500798EE0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
